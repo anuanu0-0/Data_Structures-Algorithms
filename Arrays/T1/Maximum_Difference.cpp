@@ -1,30 +1,34 @@
 // Time Complexity : O(N)
 //  Auxilary Space : O(1)
-// Problem Statement : Find leaders in an array. If there is no larger element
-//                     on right of an element then it is called a leader.
+// Problem Statement : Find max difference of arr[j]-arr[i] such that j>i
 
 #include <iostream>
 #include <climits>
+#include <algorithm>
 using namespace std;
 
-void leader(int *arr, int n)
+int maxDiff(int *arr, int n)
 {
-    int curMax = INT_MIN;
-    for (int i = n - 1; i >= 0; i--)
+    if (n == 1)
+        return 0;
+    int minVal = min(arr[0], arr[1]), lastDiff = arr[1] - arr[0];
+    for (int i = 2; i < n; i++)
     {
-        if (arr[i] > curMax)
+        if (arr[i] - minVal > lastDiff)
         {
-            curMax = arr[i];
-            cout << arr[i] << " ";
+            lastDiff = arr[i] - minVal;
         }
+        if (arr[i] < minVal)
+            minVal = arr[i];
     }
+    return lastDiff;
 }
 
 int main()
 {
-    int arr[] = {10, 5, 30, 15};
+    int arr[] = {30, 10, 8, 2};
     int n = sizeof(arr) / sizeof(arr[0]);
-    leader(arr, n);
+    cout << maxDiff(arr, n) << '\n';
 
     return 0;
 }
