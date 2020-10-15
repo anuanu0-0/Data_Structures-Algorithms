@@ -1,5 +1,5 @@
 // Time Complexity : O(N)
-//  Auxilary Space : O(1)
+//  Auxilary Space : O(N)
 // Problem Statement :  Given lengths of walls, return how much rain water can be trapped
 #include <iostream>
 #include <climits>
