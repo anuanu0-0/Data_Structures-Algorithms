@@ -7,7 +7,7 @@
 #include <algorithm>
 using namespace std;
 
-int mojorityElement(int *arr, int n)
+int majorityElement(int *arr, int n)
 {
     int res = arr[0], count = 1;
     for (int i = 1; i < n; i++)
@@ -41,7 +41,7 @@ int main()
 {
     int arr[] = {3, 4, 7, 7, 7, 5};
     int n = sizeof(arr) / sizeof(arr[0]);
-    cout << mojorityElement(arr, n) << '\n';
+    cout << majorityElement(arr, n) << '\n';
 
     return 0;
 }
