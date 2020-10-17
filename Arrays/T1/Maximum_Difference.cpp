@@ -1,6 +1,6 @@
-// Time Complexity : O(N)
+//  Time Complexity : O(N)
 //  Auxilary Space : O(1)
-// Problem Statement : Find max difference of arr[j]-arr[i] such that j>i
+//  Problem Statement : Find max difference of arr[j]-arr[i] such that j>i
 
 #include <iostream>
 #include <climits>
