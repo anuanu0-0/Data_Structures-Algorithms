@@ -3,14 +3,14 @@ Some of my Data Structures &amp; Algorithms implementations
 
 ## Arrays
 ### Theory Set
-* [ ]   Largest Element in an Array 
-* [ ]   Second Largest Element in Array 
-* [ ]   Check if an Array is Sorted 
-* [ ]   Reverse an Array 
-* [ ]   Remove duplicates from a sorted array 
-* [ ]   Move Zeros to End 
-* [ ]   Left Rotate an Array by One 
-* [ ]   Left Rotate an Array by D places 
+* [X]   Largest Element in an Array 
+* [X]   Second Largest Element in Array 
+* [X]   Check if an Array is Sorted 
+* [X]   Reverse an Array 
+* [X]   Remove duplicates from a sorted array 
+* [X]   Move Zeros to End 
+* [X]   Left Rotate an Array by One 
+* [x]   Left Rotate an Array by D places 
 * [ ]   Maximum Difference problem  
 * [ ]   Frequencies in a Sorted Array  
 * [ ]   Stock Buy and Sell Problem 
