@@ -15,13 +15,13 @@ Some of my Data Structures &amp; Algorithms implementations
 * [X]   Frequencies in a Sorted Array  
 * [X]   Stock Buy and Sell Problem 
 * [X]   Trapping Rain Water
-* [ ]   Maximum consecutive 1s
-* [ ]   Trapping Rain Water
-* [ ]   Maximum subarray sum 
-* [ ]   Longest Even Odd Subarray 
-* [ ]   Maximum Circular Sum Subarray 
-* [ ]   Majority Element 
-* [ ]   Minimum Consecutive Flips 
+* [X]   Maximum consecutive 1s
+* [X]   Trapping Rain Water
+* [X]   Maximum subarray sum 
+* [X]   Longest Even Odd Subarray 
+* [X]   Maximum Circular Sum Subarray 
+* [X]   Majority Element 
+* [X]   Minimum Consecutive Flips 
 * [ ]   Sliding Window Technique 
 * [ ]   Prefix Sum Technique (Part 1) 
 * [ ]   Prefix Sum Technique (Part 2) 
