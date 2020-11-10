@@ -11,10 +11,10 @@ Some of my Data Structures &amp; Algorithms implementations
 * [X]   Move Zeros to End 
 * [X]   Left Rotate an Array by One 
 * [x]   Left Rotate an Array by D places 
-* [ ]   Maximum Difference problem  
-* [ ]   Frequencies in a Sorted Array  
-* [ ]   Stock Buy and Sell Problem 
-* [ ]   Trapping Rain Water
+* [X]   Maximum Difference problem  
+* [X]   Frequencies in a Sorted Array  
+* [X]   Stock Buy and Sell Problem 
+* [X]   Trapping Rain Water
 * [ ]   Maximum consecutive 1s
 * [ ]   Trapping Rain Water
 * [ ]   Maximum subarray sum 
