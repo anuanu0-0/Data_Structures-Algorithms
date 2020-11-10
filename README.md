@@ -22,7 +22,8 @@ Some of my Data Structures &amp; Algorithms implementations
 * [X]   Maximum Circular Sum Subarray 
 * [X]   Majority Element 
 * [X]   Minimum Consecutive Flips 
-* [ ]   Sliding Window Technique 
+* [ ]   Sliding Window Technique 1 : Maximum sum of K consecutive numbers
+* [ ]   Sliding Window Technique 2 : N-Bonacci numbers
 * [ ]   Prefix Sum Technique (Part 1) 
 * [ ]   Prefix Sum Technique (Part 2) 
 ### Problem Set
