@@ -4,7 +4,7 @@ Some of my Data Structures &amp; Algorithms implementations
 ## Arrays
 ### Theory Set
 |Questions|Done|
-----------------
+|---------|-------|
 |  Largest Element in an Array ||
 |  Second Largest Element in Array ||
 |  Check if an Array is Sorted ||
