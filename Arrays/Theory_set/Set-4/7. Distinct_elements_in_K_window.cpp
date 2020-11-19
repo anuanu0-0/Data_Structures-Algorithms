@@ -15,6 +15,7 @@ using namespace std;
 
 void countDistinct(vi v, int k)
 {
+    // TO DO
 }
 
 int main()
