@@ -3,31 +3,35 @@ Some of my Data Structures &amp; Algorithms implementations
 
 ## Arrays
 ### Theory Set
-* [X]   Largest Element in an Array 
-* [X]   Second Largest Element in Array 
-* [X]   Check if an Array is Sorted 
-* [X]   Reverse an Array 
-* [X]   Remove duplicates from a sorted array 
-* [X]   Move Zeros to End 
-* [X]   Left Rotate an Array by One 
-* [x]   Left Rotate an Array by D places 
-* [X]   Maximum Difference problem  
-* [X]   Frequencies in a Sorted Array  
-* [X]   Stock Buy and Sell Problem 
-* [X]   Trapping Rain Water
-* [X]   Maximum consecutive 1s
-* [X]   Trapping Rain Water
-* [X]   Maximum subarray sum 
-* [X]   Longest Even Odd Subarray 
-* [X]   Maximum Circular Sum Subarray 
-* [X]   Majority Element 
-* [X]   Minimum Consecutive Flips 
-* [ ]   Sliding Window Technique 1 : Maximum sum of K consecutive numbers
-* [ ]   Sliding Window Technique 2 : N-Bonacci numbers
-* [ ]   Prefix Sum Technique (Part 1) 
-* [ ]   Prefix Sum Technique (Part 2) 
+|Questions|Done|
+|---------|-------|
+|  Largest Element in an Array |YES|
+|  Second Largest Element in Array |YES|
+|  Check if an Array is Sorted |YES|
+|  Reverse an Array |YES|
+|  Remove duplicates from a sorted array |YES|
+|  Move Zeros to End |YES|
+|  Left Rotate an Array by One |YES|
+|  Left Rotate an Array by D places |YES|
+|  Maximum Difference problem  |YES|
+|  Frequencies in a Sorted Array  |YES|
+|  Stock Buy and Sell Problem |YES|
+|  Trapping Rain Water|YES|
+|  Maximum consecutive 1s|YES|
+|  Trapping Rain Water|YES|
+|  Maximum subarray sum |YES|
+|  Longest Even Odd Subarray |YES|
+|  Maximum Circular Sum Subarray |YES|
+|  Majority Element |YES|
+|  Minimum Consecutive Flips |YES|
+|  Sliding Window 1 : Maximum sum of K consecutive numbers|YES|
+|  Sliding Window 2 : Subarray with given sum|YES|
+|  Sliding Window 3 : N-Bonacci numbers|YES|
+|  Sliding Window 4 : Count distinct elements in window of size k||
+|  Prefix Sum Technique (Part 1) ||
+|  Prefix Sum Technique (Part 2) ||
 ### Problem Set
 
-## Strings
+## Matrix
 ### Theory Set
 ### Problem Set
