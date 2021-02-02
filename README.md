@@ -1,5 +1,6 @@
-# Data_Structures-Algorithms
+# Data Structures and Algorithms
 
+## Arrays
 |No.| Problem List                                                                                                        | Solutions |
 |--| ------------------------------------------------------------------------------------------------------------------- | --------- |
 |1.| [Largest Element in an array](https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)                       |           |
