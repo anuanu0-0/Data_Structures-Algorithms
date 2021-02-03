@@ -3,7 +3,7 @@
 ## Arrays
 |No.| Problem List                                                                                                        | Solutions |
 |--| ------------------------------------------------------------------------------------------------------------------- | --------- |
-|1.| [Largest Element in an array](https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)                       |           |
+|1.| [Help a thief](https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)                       |           |
 |2.| [Second Largest Element in an array](https://practice.geeksforgeeks.org/problems/find-second-largest-element2406/1) |           |
 |3.| [Check if array is sorted](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)           |           |
 |4.| [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)                                  |           |
