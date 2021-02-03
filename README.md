@@ -3,11 +3,11 @@
 ## Arrays
 |No.| Problem List                                                                                                        | Solutions |
 |--| ------------------------------------------------------------------------------------------------------------------- | --------- |
-|1.| [Help a thief](https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)                       |           |
-|2.| [Second Largest Element in an array](https://practice.geeksforgeeks.org/problems/find-second-largest-element2406/1) |           |
-|3.| [Check if array is sorted](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)           |           |
-|4.| [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)                                  |           |
-|5.| [Remove duplicates from a sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)         |           |
+|1.| [Help a thief](https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)                       |  [Solution](https://github.com/anuanu0-0/Data_Structures-Algorithms/blob/master/Arrays/LargestElement.cpp)         |
+|2.| [Second Largest Element in an array](https://practice.geeksforgeeks.org/problems/find-second-largest-element2406/1) | [Solution](https://github.com/anuanu0-0/Data_Structures-Algorithms/blob/master/Arrays/secondMax.cpp)          |
+|3.| [Check if array is sorted](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)           | [Solution](https://github.com/anuanu0-0/Data_Structures-Algorithms/blob/master/Arrays/IsSorted.cpp)          |
+|4.| [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)                                  | [Solution](https://github.com/anuanu0-0/Data_Structures-Algorithms/blob/master/Arrays/ReverseArray.cpp)           |
+|5.| [Remove duplicates from a sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)         |[Solution]()           |
 |6.| [Move zeros to end](https://leetcode.com/problems/move-zeroes/)                                                     |           |
 |7.| [Left rotate array by one](https://practice.geeksforgeeks.org/problems/quick-left-rotation3806/1)                   |           |
 |8.| [Left rotate array by d places](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)           |           |
