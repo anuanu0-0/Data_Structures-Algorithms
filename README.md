@@ -1,5 +1,3 @@
-# Data Structures and Algorithms
-
 | Topic:              | Problem:                                                                                             | Done [yes or no] |
 | ------------------- | ---------------------------------------------------------------------------------------------------- | ---------------- | 
 |                     |                                                                                                      |                  |
@@ -434,66 +432,66 @@
 | Topic:              | Problem:                                                                                             | Done [yes or no] |
 | ------------------- | ---------------------------------------------------------------------------------------------------- | ---------------- | 
 |                     |                                                                                                      |                  |
-| Dynamic Programming | Coin ChangeProblem                                                                                   |                  |
-| Dynamic Programming | Knapsack Problem                                                                                     |                  |
-| Dynamic Programming | Binomial CoefficientProblem                                                                          |                  |
-| Dynamic Programming | Permutation CoefficientProblem                                                                       |                  |
-| Dynamic Programming | Program for nth Catalan Number                                                                       |                  |
-| Dynamic Programming | Matrix Chain Multiplication                                                                          |                  |
-| Dynamic Programming | Edit Distance                                                                                        |                  |
-| Dynamic Programming | Subset Sum Problem                                                                                   |                  |
-| Dynamic Programming | Friends Pairing Problem                                                                              |                  |
-| Dynamic Programming | Gold Mine Problem                                                                                    |                  |
-| Dynamic Programming | Assembly Line SchedulingProblem                                                                      |                  |
-| Dynamic Programming | Painting the Fenceproblem                                                                            |                  |
-| Dynamic Programming | Maximize The Cut Segments                                                                            |                  |
-| Dynamic Programming | Longest Common Subsequence                                                                           |                  |
-| Dynamic Programming | Longest Repeated Subsequence                                                                         |                  |
-| Dynamic Programming | Longest Increasing Subsequence                                                                       |                  |
-| Dynamic Programming | Space Optimized Solution of LCS                                                                      |                  |
-| Dynamic Programming | LCS (Longest Common Subsequence) of three strings                                                    |                  |
-| Dynamic Programming | Maximum Sum Increasing Subsequence                                                                   |                  |
-| Dynamic Programming | Count all subsequences having product less than K                                                    |                  |
-| Dynamic Programming | Longest subsequence such that difference between adjacent is one                                     |                  |
-| Dynamic Programming | Maximum subsequence sum such that no three are consecutive                                           |                  |
-| Dynamic Programming | Egg Dropping Problem                                                                                 |                  |
-| Dynamic Programming | Maximum Length Chain of Pairs                                                                        |                  |
-| Dynamic Programming | Maximum size square sub-matrix with all 1s                                                           |                  |
-| Dynamic Programming | Maximum sum of pairs with specific difference                                                        |                  |
-| Dynamic Programming | Min Cost PathProblem                                                                                 |                  |
-| Dynamic Programming | Maximum difference of zeros and ones in binary string                                                |                  |
-| Dynamic Programming | Minimum number of jumps to reach end                                                                 |                  |
-| Dynamic Programming | Minimum cost to fill given weight in a bag                                                           |                  |
-| Dynamic Programming | Minimum removals from array to make max –min <= K                                                    |                  |
-| Dynamic Programming | Longest Common Substring                                                                             |                  |
-| Dynamic Programming | Count number of ways to reacha given score in a game                                                 |                  |
-| Dynamic Programming | Count Balanced Binary Trees of Height h                                                              |                  |
-| Dynamic Programming | LargestSum Contiguous Subarray [V>V>V>V IMP ]                                                        |                  |
-| Dynamic Programming | Smallest sum contiguous subarray                                                                     |                  |
-| Dynamic Programming | Unbounded Knapsack (Repetition of items allowed)                                                     |                  |
-| Dynamic Programming | Word Break Problem                                                                                   |                  |
-| Dynamic Programming | Largest Independent Set Problem                                                                      |                  |
-| Dynamic Programming | Partition problem                                                                                    |                  |
-| Dynamic Programming | Longest Palindromic Subsequence                                                                      |                  |
-| Dynamic Programming | Count All Palindromic Subsequence in a given String                                                  |                  |
-| Dynamic Programming | Longest Palindromic Substring                                                                        |                  |
-| Dynamic Programming | Longest alternating subsequence                                                                      |                  |
-| Dynamic Programming | Weighted Job Scheduling                                                                              |                  |
-| Dynamic Programming | Coin game winner where every player has three choices                                                |                  |
-| Dynamic Programming | Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ] |                  |
-| Dynamic Programming | Maximum profit by buying and selling a share at most twice [ IMP ]                                   |                  |
-| Dynamic Programming | Optimal Strategy for a Game                                                                          |                  |
-| Dynamic Programming | Optimal Binary Search Tree                                                                           |                  |
-| Dynamic Programming | Palindrome PartitioningProblem                                                                       |                  |
-| Dynamic Programming | Word Wrap Problem                                                                                    |                  |
-| Dynamic Programming | Mobile Numeric Keypad Problem [ IMP ]                                                                |                  |
-| Dynamic Programming | Boolean Parenthesization Problem                                                                     |                  |
-| Dynamic Programming | Largest rectangular sub-matrix whose sum is 0                                                        |                  |
-| Dynamic Programming | Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]                         |                  |
-| Dynamic Programming | Maximum sum rectangle in a 2D matrix                                                                 |                  |
-| Dynamic Programming | Maximum profit by buying and selling a share at most k times                                         |                  |
-| Dynamic Programming | Find if a string is interleaved of two other strings                                                 |                  |
-| Dynamic Programming | Maximum Length of Pair Chain                                                                         |                  |
+| DP| Coin ChangeProblem                                                                                   |                  |
+| DP| Knapsack Problem                                                                                     |                  |
+| DP| Binomial CoefficientProblem                                                                          |                  |
+| DP| Permutation CoefficientProblem                                                                       |                  |
+| DP| Program for nth Catalan Number                                                                       |                  |
+| DP| Matrix Chain Multiplication                                                                          |                  |
+| DP| Edit Distance                                                                                        |                  |
+| DP| Subset Sum Problem                                                                                   |                  |
+| DP| Friends Pairing Problem                                                                              |                  |
+| DP| Gold Mine Problem                                                                                    |                  |
+| DP| Assembly Line SchedulingProblem                                                                      |                  |
+| DP| Painting the Fenceproblem                                                                            |                  |
+| DP| Maximize The Cut Segments                                                                            |                  |
+| DP| Longest Common Subsequence                                                                           |                  |
+| DP| Longest Repeated Subsequence                                                                         |                  |
+| DP| Longest Increasing Subsequence                                                                       |                  |
+| DP| Space Optimized Solution of LCS                                                                      |                  |
+| DP| LCS (Longest Common Subsequence) of three strings                                                    |                  |
+| DP| Maximum Sum Increasing Subsequence                                                                   |                  |
+| DP| Count all subsequences having product less than K                                                    |                  |
+| DP| Longest subsequence such that difference between adjacent is one                                     |                  |
+| DP| Maximum subsequence sum such that no three are consecutive                                           |                  |
+| DP| Egg Dropping Problem                                                                                 |                  |
+| DP| Maximum Length Chain of Pairs                                                                        |                  |
+| DP| Maximum size square sub-matrix with all 1s                                                           |                  |
+| DP| Maximum sum of pairs with specific difference                                                        |                  |
+| DP| Min Cost PathProblem                                                                                 |                  |
+| DP| Maximum difference of zeros and ones in binary string                                                |                  |
+| DP| Minimum number of jumps to reach end                                                                 |                  |
+| DP| Minimum cost to fill given weight in a bag                                                           |                  |
+| DP| Minimum removals from array to make max –min <= K                                                    |                  |
+| DP| Longest Common Substring                                                                             |                  |
+| DP| Count number of ways to reacha given score in a game                                                 |                  |
+| DP| Count Balanced Binary Trees of Height h                                                              |                  |
+| DP| LargestSum Contiguous Subarray [V>V>V>V IMP ]                                                        |                  |
+| DP| Smallest sum contiguous subarray                                                                     |                  |
+| DP| Unbounded Knapsack (Repetition of items allowed)                                                     |                  |
+| DP| Word Break Problem                                                                                   |                  |
+| DP| Largest Independent Set Problem                                                                      |                  |
+| DP| Partition problem                                                                                    |                  |
+| DP| Longest Palindromic Subsequence                                                                      |                  |
+| DP| Count All Palindromic Subsequence in a given String                                                  |                  |
+| DP| Longest Palindromic Substring                                                                        |                  |
+| DP| Longest alternating subsequence                                                                      |                  |
+| DP| Weighted Job Scheduling                                                                              |                  |
+| DP| Coin game winner where every player has three choices                                                |                  |
+| DP| Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ] |                  |
+| DP| Maximum profit by buying and selling a share at most twice [ IMP ]                                   |                  |
+| DP| Optimal Strategy for a Game                                                                          |                  |
+| DP| Optimal Binary Search Tree                                                                           |                  |
+| DP| Palindrome PartitioningProblem                                                                       |                  |
+| DP| Word Wrap Problem                                                                                    |                  |
+| DP| Mobile Numeric Keypad Problem [ IMP ]                                                                |                  |
+| DP| Boolean Parenthesization Problem                                                                     |                  |
+| DP| Largest rectangular sub-matrix whose sum is 0                                                        |                  |
+| DP| Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]                         |                  |
+| DP| Maximum sum rectangle in a 2D matrix                                                                 |                  |
+| DP| Maximum profit by buying and selling a share at most k times                                         |                  |
+| DP| Find if a string is interleaved of two other strings                                                 |                  |
+| DP| Maximum Length of Pair Chain                                                                         |                  |
 
 | Topic:              | Problem:                                                                                             | Done [yes or no] |
 | ------------------- | ---------------------------------------------------------------------------------------------------- | ---------------- | 
@@ -508,4 +506,3 @@
 | Bit Manipulation    | Divide two integers without using multiplication, division and mod operator                          |                  |
 | Bit Manipulation    | Calculate square of a number without using \*, / and pow()                                           |                  |
 | Bit Manipulation    | Power Set                                                                                            |                  |
-
