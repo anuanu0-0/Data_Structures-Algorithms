@@ -1,39 +1,42 @@
 # Data Structures and Algorithms
 
 ## Arrays
-|No.| Problem List                                                                                                        | Solutions |
-|--| ------------------------------------------------------------------------------------------------------------------- | --------- |
-|1.| [Help a thief](https://practice.geeksforgeeks.org/problems/help-a-thief5938/1)                       |           |
-|2.| [Second Largest Element in an array](https://practice.geeksforgeeks.org/problems/find-second-largest-element2406/1) |           |
-|3.| [Check if array is sorted](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)           |           |
-|4.| [Reverse an array](https://practice.geeksforgeeks.org/problems/reverse-an-array/0)                                  |           |
-|5.| [Remove duplicates from a sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)         |           |
-|6.| [Move zeros to end](https://leetcode.com/problems/move-zeroes/)                                                     |           |
-|7.| [Left rotate array by one](https://practice.geeksforgeeks.org/problems/quick-left-rotation3806/1)                   |           |
-|8.| [Left rotate array by d places](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0)           |           |
-|9.| [Leaders in an Array problem ](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1)        |           |
-|10.| [Maximum Gap](https://leetcode.com/problems/maximum-gap/)                                                           |           |
-|11.| [Maximum Difference problem ](https://practice.geeksforgeeks.org/problems/maximum-difference-1587115620/1)          |           |
-|12.| [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)             |           |
-|13.| [Stock Buy and Sell Problem - 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                    |           |
-|14.| [Stock Buy and Sell Problem - 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)                 |           |
-|15.| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                                           |           |
-|| Maximum consecutive 1s                                                                                              |           |
-|| Maximum subarray sum                                                                                                |           |
-|| Longest Even Odd Subarray                                                                                           |           |
-|| Maximum Circular Sum Subarray                                                                                       |           |
-|| Majority Element                                                                                                    |           |
-|| Minimum Consecutive Flips                                                                                           |           |
-|| Sliding Window Technique                                                                                            |           |
-|| Strongest Neighbour                                                                                                 |           |
-|| Minimum adjacent difference in a circular array                                                                     |           |
-|| Maximum occured integer                                                                                             |           |
-|| Wave Array                                                                                                          |           |
-|| Frequencies of Limited Range Array Elements                                                                         |           |
-|| Equilibrium Point                                                                                                   |           |
-|| Smallest Positive missing number                                                                                    |           |
-|| Rearrange Array Alternately                                                                                         |           |
-|| Rearrange an array with O(1) extra space                                                                            |           |
-|| Maximum Index                                                                                                       |           |
-|| Check if array is sorted and rotated                                                                                |           |
-|| Longest Subarray Of Evens And Odds                                                                                  |           |
+
+| No.   | Problem List                                                                                    | Done [Yes or No] |
+| ----- | ----------------------------------------------------------------------------------------------- | ---------------- |
+| Array | Reverse the array                                                                               |                  |
+| Array | Find the maximum and minimum element in an array                                                |                  |
+| Array | Find the "Kth" max and min element of an array                                                  |                  |
+| Array | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo |                  |
+| Array | Move all the negative elements to one side of the array                                         |                  |
+| Array | Find the Union and Intersection of the two sorted arrays.                                       |                  |
+| Array | Write a program to cyclically rotate an array by one.                                           |                  |
+| Array | find Largest sum contiguous Subarray [V. IMP]                                                   |                  |
+| Array | Minimise the maximum difference between heights [V.IMP]                                         |                  |
+| Array | Minimum no. of Jumps to reach end of an array                                                   |                  |
+| Array | find duplicate in an array of N+1 Integers                                                      |                  |
+| Array | Merge 2 sorted arrays without using Extra space.                                                |                  |
+| Array | Kadane's Algo [V.V.V.V.V IMP]                                                                   |                  |
+| Array | Merge Intervals                                                                                 |                  |
+| Array | Next Permutation                                                                                |                  |
+| Array | Count Inversion                                                                                 |                  |
+| Array | Best time to buy and Sell stock                                                                 |                  |
+| Array | find all pairs on integer array whose sum is equal to given number                              |                  |
+| Array | find common elements In 3 sorted arrays                                                         |                  |
+| Array | Rearrange the array in alternating positive and negative items with O(1) extra space            |                  |
+| Array | Find if there is any subarray with sum equal to 0                                               |                  |
+| Array | Find factorial of a large number                                                                |                  |
+| Array | find maximum product subarray                                                                   |                  |
+| Array | Find longest coinsecutive subsequence                                                           |                  |
+| Array | Given an array of size n and a number k, fin all elements that appear more than " n/k " times.  |                  |
+| Array | Maximum profit by buying and selling a share atmost twice                                       |                  |
+| Array | Find whether an array is a subset of another array                                              |                  |
+| Array | Find the triplet that sum to a given value                                                      |                  |
+| Array | Trapping Rain water problem                                                                     |                  |
+| Array | Chocolate Distribution problem                                                                  |                  |
+| Array | Smallest Subarray with sum greater than a given value                                           |                  |
+| Array | Three way partitioning of an array around a given value                                         |                  |
+| Array | Minimum swaps required bring elements less equal K together                                     |                  |
+| Array | Minimum no. of operations required to make an array palindrome                                  |                  |
+| Array | Median of 2 sorted arrays of equal size                                                         |                  |
+| Array | Median of 2 sorted arrays of different size                                                     |                  |
