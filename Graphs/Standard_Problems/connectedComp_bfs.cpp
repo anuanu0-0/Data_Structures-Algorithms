@@ -1,6 +1,6 @@
-// PROBLEM STATEMENT : Count connected components in an undirected graph
+// PROBLEM STATEMENT : Count connected components in an undirected graph using BFS
 // -- OR --
-// Count number of islands
+// Count number of islands using BFS
 
 // Time Complexity : O(V+E)
 
