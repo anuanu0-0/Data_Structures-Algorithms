@@ -521,5 +521,3 @@
 | Divide two integers without using multiplication, division and mod operator |                  |
 | Calculate square of a number without using \*, / and pow()                  |                  |
 | Power Set                                                                   |                  |
-
-> > > > > > > de3915ec9f11564f2754302b26ab4bb3bce7cf83
